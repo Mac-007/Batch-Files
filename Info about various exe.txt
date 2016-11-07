@@ -1,0 +1,26 @@
+winver.exe	=> Display windows version information
+
+cmd.exe => cmd
+
+wscui.cpl => Action Center
+
+compmgmt.msc => computer Management
+
+msinfo32.exe => system information
+
+eventvwr.exe => event viewer
+
+appwiz.cpl => add/remove programs
+
+control.exe=> Control Panel
+
+inetcpl.cpl => internet properties
+
+perfmon.exe => Performance
+
+taskmgr.exe => task manager
+
+regedt32.exe => registery
+
+rstrui.exe => system restore
+
